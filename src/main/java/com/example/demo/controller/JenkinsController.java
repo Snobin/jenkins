@@ -2,7 +2,7 @@ package com.example.demo.controller;
 
 public class JenkinsController {
 
-	public  SayHello() {
+	public String SayHello() {
 		return "Hello";
 	}
 }
